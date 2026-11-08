@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/run-llama/llamacloud-admin-python/commit/7444b53c9eb231d03618b552e20e73842f37f826",
       "git:hexsha": "7444b53c9eb231d03618b552e20e73842f37f826",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
